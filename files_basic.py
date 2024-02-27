@@ -1,0 +1,6 @@
+f = open("kiran.txt","r")
+# print(f.readline())
+# print(f.readlines())
+print(f.readable())
+#print(f.read())
+f.close()

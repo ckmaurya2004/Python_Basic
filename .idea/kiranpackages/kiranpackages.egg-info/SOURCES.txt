@@ -1,0 +1,6 @@
+setup.py
+kiranpackages/__init__.py
+kiranpackages.egg-info/PKG-INFO
+kiranpackages.egg-info/SOURCES.txt
+kiranpackages.egg-info/dependency_links.txt
+kiranpackages.egg-info/top_level.txt

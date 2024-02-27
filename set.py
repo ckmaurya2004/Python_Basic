@@ -1,0 +1,12 @@
+# s1 = set()
+# print(type(s1))
+
+s =set()
+s.add(1)
+s.add(2)
+print(s)
+s2 = set([1,2,3])
+print(s2)
+print(s.union(s2))
+print(s.intersection(s2))
+print(s.issuperset(s2))
